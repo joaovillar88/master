@@ -2,5 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Joao/Desktop/projeto/master/projeto/lib/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joao/Desktop/projeto/master/projeto/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joao/Desktop/projeto/master/projeto/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joao/Desktop/projeto/master/projeto/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joao/Desktop/projeto/master/projeto/lib/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joao/Desktop/projeto/master/projeto/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
